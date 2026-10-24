@@ -35,22 +35,22 @@ open_to: frontend roles and web development collaborations
 
 The projects below show how I approach application state, responsive layouts, API integration, and complete user flows.
 
-| Project | What to explore | Main technologies |
-| --- | --- | --- |
-| [FlowBoard](https://github.com/RamtinBabaei/flowboard-saas-3.) | Workspace state, Kanban/list/calendar views, task filters, and browser persistence | React, TypeScript, Recharts, Zod, IndexedDB |
-| [ShopSphere](https://github.com/RamtinBabaei/ShopSphere) | Catalog integration, persistent shopping state, forms, and a complete demo purchase journey | React, TypeScript, Tailwind CSS, TanStack Query, Zustand |
-| [Coursefar](https://github.com/RamtinBabaei/coursefar) | Persian RTL UI, three user roles, typed API integration, and separate static/API-backed modes | React, TypeScript, Express, SQLite |
-| [Audiophile Studio](https://github.com/RamtinBabaei/audiophile-studio) | Responsive storefront, persistent cart, typed checkout, and database-backed demo orders | React, TypeScript, Tailwind CSS, Cloudflare D1 |
-| [Designo Studio](https://github.com/RamtinBabaei/designo-studio) | Seven responsive pages, reusable layouts, accessible dialogs, and a persistent contact API | React, TypeScript, Tailwind CSS, Cloudflare Workers |
+| Project | Demo | What to explore | Main technologies |
+| --- | --- | --- | --- |
+| [FlowBoard](https://github.com/RamtinBabaei/flowboard-saas-3.) | [Live demo](https://ramtinbabaei.github.io/flowboard-saas-3./) | Workspace state, Kanban/list/calendar views, task filters, and browser persistence | React, TypeScript, Recharts, Zod, IndexedDB |
+| [ShopSphere](https://github.com/RamtinBabaei/ShopSphere) | [Live demo](https://ramtinbabaei.github.io/ShopSphere/) | Catalog integration, persistent shopping state, forms, and a complete demo purchase journey | React, TypeScript, Tailwind CSS, TanStack Query, Zustand |
+| [Coursefar](https://github.com/RamtinBabaei/coursefar) | [Live demo](https://ramtinbabaei.github.io/coursefar/) | Persian RTL UI, three user roles, typed API integration, and separate static/API-backed modes | React, TypeScript, Express, SQLite |
+| [Audiophile Studio](https://github.com/RamtinBabaei/audiophile-studio) | [Live demo](https://audiophile-studio.ramtinbabaei-portfolio.workers.dev/) | Responsive storefront, persistent cart, typed checkout, and database-backed demo orders | React, TypeScript, Tailwind CSS, Cloudflare D1 |
+| [Designo Studio](https://github.com/RamtinBabaei/designo-studio) | [Live demo](https://designo-studio.ramtinbabaei-portfolio.workers.dev/) | Seven responsive pages, reusable layouts, accessible dialogs, and a persistent contact API | React, TypeScript, Tailwind CSS, Cloudflare Workers |
 
 ### Recent builds
 
 | Project | What to explore | Main technologies |
 | --- | --- | --- |
-| [NoteFlow](https://github.com/RamtinBabaei/noteflow) | Notes editor, search and tags, themes, unsaved-change handling, and database-backed guest workspaces | React, TypeScript, Tailwind CSS, Zod, D1 |
-| [QuickDine](https://github.com/RamtinBabaei/quickdine-platform) | Restaurant discovery, reservation flows, and separate diner, owner, and administrator workspaces | React, TypeScript, Tailwind CSS, Workers, D1 |
-| [Photosnap Studio](https://github.com/RamtinBabaei/photosnap-studio) | Editorial layouts, story readers, plan comparison, prerendered routes, and an invitation API | React, TypeScript, React Router, Tailwind CSS, D1 |
-| [Prescripto](https://github.com/RamtinBabaei/prescripto-platform) | Specialist discovery, appointment flows, patient and staff interfaces, and typed API state | React, TypeScript, Tailwind CSS, TanStack Query, D1 |
+| [NoteFlow](https://github.com/RamtinBabaei/noteflow) | [Live demo](https://noteflow.ramtinbabaei-portfolio.workers.dev) | Notes editor, search and tags, themes, unsaved-change handling, and database-backed guest workspaces | React, TypeScript, Tailwind CSS, Zod, D1 |
+| [QuickDine](https://github.com/RamtinBabaei/quickdine-platform) | [Live demo](https://quickdine-platform.ramtinbabaei-portfolio.workers.dev) | Restaurant discovery, reservation flows, and separate diner, owner, and administrator workspaces | React, TypeScript, Tailwind CSS, Workers, D1 |
+| [Photosnap Studio](https://github.com/RamtinBabaei/photosnap-studio) | [Live demo](https://photosnap-studio.ramtinbabaei-portfolio.workers.dev) | Editorial layouts, story readers, plan comparison, prerendered routes, and an invitation API | React, TypeScript, React Router, Tailwind CSS, D1 |
+| [Prescripto](https://github.com/RamtinBabaei/prescripto-platform) | [Live demo](https://prescripto.ramtinbabaei-portfolio.workers.dev) | Specialist discovery, appointment flows, patient and staff interfaces, and typed API state | React, TypeScript, Tailwind CSS, TanStack Query, D1 |
 
 Each repository describes its architecture, local setup, validation commands, and current scope. These are portfolio applications; demo bookings, orders, and account behavior are explained in their documentation.
 
@@ -92,8 +92,6 @@ Each repository describes its architecture, local setup, validation commands, an
 <p>
   <img src="https://img.shields.io/badge/Git-345B71?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-345B71?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Claude_Code-345B71?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-345B71?style=flat-square" alt="OpenAI Codex" />
 </p>
 
 | Area | Tools and practices |
@@ -103,7 +101,6 @@ Each repository describes its architecture, local setup, validation commands, an
 | Application development | React Router, REST API integration, form validation, loading and error states |
 | Quality and delivery | Git, GitHub, GitHub Actions, debugging, TypeScript checks, automated tests |
 | Backend foundations | Basic Node.js, Express.js, SQL, and relational database concepts |
-| AI-assisted workflow | Claude Code and OpenAI Codex for implementation, debugging, refactoring, and test drafting, with code review and verification |
 
 ## How I work
 
