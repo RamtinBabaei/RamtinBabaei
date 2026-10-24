@@ -12,8 +12,6 @@
 
 # Ramtin Babaei
 
-<img src="https://avatars.githubusercontent.com/u/121127909?v=4" align="right" width="136" alt="Illustrated portrait of Ramtin Babaei" />
-
 **Frontend Developer · React · TypeScript**
 
 I turn designs and product ideas into responsive web interfaces. I have **one year of hands-on frontend development experience**, with a focus on reusable components, clear application state, and dependable API integration.
