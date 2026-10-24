@@ -12,7 +12,7 @@
 
 # Ramtin Babaei
 
-<img src="assets/ramtin-portrait.png" align="right" width="136" alt="Portrait of Ramtin Babaei" />
+<img src="assets/ramtin-avatar.jpg" align="right" width="136" alt="Illustrated portrait of Ramtin Babaei" />
 
 **Frontend Developer · React · TypeScript**
 
