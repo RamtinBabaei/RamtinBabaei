@@ -1,10 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ramtin Babaei — Responsive interfaces. Thoughtful implementation.">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#172b4d"/></linearGradient></defs>
-<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
-<circle cx="1100" cy="80" r="170" fill="#3b82f6" opacity=".09"/><circle cx="1100" cy="80" r="115" fill="none" stroke="#60a5fa" stroke-width="1" opacity=".3"/>
-<path d="M985 128l-32 22 32 22m96-44 32 22-32 22m-32-60-26 76" fill="none" stroke="#93c5fd" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="64" y="61" fill="#93c5fd" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">FRONTEND DEVELOPER / REACT + TYPESCRIPT</text>
-<text x="60" y="146" fill="#f8fafc" font-family="Arial, sans-serif" font-size="57" font-weight="700">Ramtin Babaei</text>
-<text x="64" y="195" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="23">Responsive interfaces. Thoughtful implementation.</text>
-<rect x="64" y="232" width="42" height="3" rx="1.5" fill="#60a5fa"/>
-<text x="118" y="240" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">RAMTIN BABAEI / FRONTEND DEVELOPMENT</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title description">
+  <title id="title">Ramtin Babaei — Frontend Developer</title>
+  <desc id="description">React and TypeScript interfaces. One year of hands-on frontend experience. Building, reviewing, and refining.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#102133"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#1e5e6b" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#1e5e6b" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="window"><rect x="1" y="1" width="998" height="318" rx="16"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="998" height="318" rx="16" fill="url(#background)" stroke="#303c4c"/>
+  <g clip-path="url(#window)">
+    <circle cx="855" cy="190" r="185" fill="url(#glow)"/>
+    <path d="M1 43H999V1H1Z" fill="#171e28"/>
+    <path d="M1 43H999" stroke="#303c4c"/>
+    <g fill="none" stroke="#294353" stroke-width="1">
+      <circle cx="861" cy="185" r="109"/><circle cx="861" cy="185" r="80"/>
+      <path d="M705 185H999M861 56V307" stroke-dasharray="3 8"/>
+    </g>
+  </g>
+  <circle cx="25" cy="23" r="5" fill="#ff7b72"/>
+  <circle cx="44" cy="23" r="5" fill="#b7c4d8"/>
+  <circle cx="63" cy="23" r="5" fill="#7ee2b8"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="500" y="27" text-anchor="middle" fill="#93a4b7" font-size="12">ramtin@github: ~/portfolio</text>
+    <text x="36" y="91" fill="#7ee2b8" font-size="17">❯ whoami</text>
+    <text x="36" y="137" fill="#f0f6fc" font-size="38" font-weight="700">Ramtin Babaei</text>
+    <text x="36" y="174" fill="#a8d5ff" font-size="20">Frontend Developer</text>
+    <text x="36" y="210" fill="#a2b2c5" font-size="15">React · TypeScript · Responsive interfaces · API integration</text>
+    <text x="36" y="280" fill="#7ee2b8" font-size="16">❯ <tspan fill="#d1dce8">building. reviewing. refining.</tspan><tspan fill="#7ee2b8"> ▋</tspan></text>
+    <text x="861" y="207" text-anchor="middle" fill="#92ccf5" font-size="57" font-weight="400">&lt;/&gt;</text>
+    <text x="861" y="252" text-anchor="middle" fill="#8197ac" font-size="10" letter-spacing="2">CODE / DESIGN / DETAIL</text>
+  </g>
+</svg>
